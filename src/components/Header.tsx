@@ -19,7 +19,7 @@ const Header = () => {
             <div className="size-6 bg-primary flex items-center justify-center">
               <span className="material-symbols-outlined text-background-dark text-lg font-bold">architecture</span>
             </div>
-            <span className="font-display font-bold text-lg tracking-tight uppercase">A.I. ARCHITECT</span>
+            <span className="font-display font-bold text-lg tracking-tight uppercase">A.I. ARCHI VIZ</span>
           </div>
           <div className="hidden md:flex items-center gap-6 font-mono text-[10px] text-muted tracking-widest uppercase">
             <span className="flex items-center gap-2"><span className="text-primary">●</span> PRÓXIMA_COHORTE: MAYO_2026</span>
