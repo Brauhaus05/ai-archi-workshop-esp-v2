@@ -8,7 +8,7 @@ const Hero = () => (
       <div className="z-10">
         <div className="font-mono text-primary text-xs tracking-[0.2em] mb-6 uppercase flex items-center gap-2">
           <span className="w-8 h-px bg-primary"></span>
-          ALIANZA CREATIVA // V2.0
+          TALLER EN LINEA // V2.0
         </div>
         <motion.h1
           initial={{ opacity: 0, y: 20 }}
@@ -16,7 +16,7 @@ const Hero = () => (
           transition={{ duration: 0.6, ease: "easeOut" }}
           className="font-display text-5xl md:text-7xl font-bold leading-[0.9] tracking-tighter text-white mb-8"
         >
-          ARQUITECTURA<br />INTERIORES<br />ESPACIOS <br />
+          VISUALIZACIÓN<br />DE ESPACIOS<br />CON INTELIGENCIA ARTIFICIAL <br />
         </motion.h1>
         <motion.p
           initial={{ opacity: 0, y: 20 }}
