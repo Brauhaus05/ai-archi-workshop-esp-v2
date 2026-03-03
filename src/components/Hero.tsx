@@ -16,7 +16,7 @@ const Hero = () => (
           transition={{ duration: 0.6, ease: "easeOut" }}
           className="font-display text-5xl md:text-7xl font-bold leading-[0.9] tracking-tighter text-white mb-8"
         >
-          REVOLUCIONA<br />LA NARRATIVA<br />ESPACIAL
+          ARQUITECTURA<br />INTERIORES<br />ESPACIOS <br />
         </motion.h1>
         <motion.p
           initial={{ opacity: 0, y: 20 }}
