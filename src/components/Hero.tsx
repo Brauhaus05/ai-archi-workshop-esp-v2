@@ -16,7 +16,7 @@ const Hero = () => (
           transition={{ duration: 0.6, ease: "easeOut" }}
           className="font-display text-5xl md:text-7xl font-bold leading-[0.9] tracking-tighter text-white mb-8"
         >
-          ARQUITECTURA<br />E INTERIORES<br />CON INTELIGENCIA ARTIFICIAL <br />
+          VISUALIZACIÓN<br />DE ESPACIOS<br />CON INTELIGENCIA ARTIFICIAL <br />
         </motion.h1>
         <motion.p
           initial={{ opacity: 0, y: 20 }}
